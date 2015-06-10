@@ -6,7 +6,7 @@
  
  April bis Juli 2013
  von taquma
- fuer Fabs&Family
+ fuer Fabs&Family&jede/n
  
  
  Gemacht aus dem Hello World-Beispiel der LiquidCrystal Library
